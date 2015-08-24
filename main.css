@@ -2,6 +2,7 @@ body {
   background-image: url(tetons1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 h1, h3 {
@@ -18,6 +19,7 @@ h1, h3 {
   margin: 0 auto;
   padding: 10px;
 }
+
 .links {
   display: inline-block;
   border: 2px solid black;
@@ -27,6 +29,7 @@ h1, h3 {
   padding-right: 3%;
   padding-left: 3%;
   }
+
 .links a {
   color: black;
 }
