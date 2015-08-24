@@ -1,0 +1,32 @@
+body {
+  background-image: url(tetons1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1, h3 {
+  text-align:center;
+}
+
+.container {
+  text-align:center;
+}
+
+.site-links {
+  text-align: center;
+  width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.links {
+  display: inline-block;
+  border: 2px solid black;
+  text-align: center;
+  width: 60px;
+  padding: 5px;
+  padding-right: 3%;
+  padding-left: 3%;
+  }
+.links a {
+  color: black;
+}
