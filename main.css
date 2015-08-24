@@ -1,12 +1,19 @@
 body {
-  background-image: url(tetons1.jpg);
+  background-image: url(grandtets.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  color: white;
 }
 
-h1, h3 {
+h1 {
   text-align:center;
+  color:black;
+}
+
+h3 {
+  text-align:right;
+
 }
 
 .container {
@@ -15,21 +22,22 @@ h1, h3 {
 
 .site-links {
   text-align: center;
-  width: 700px;
+  width: 65%;
   margin: 0 auto;
   padding: 10px;
 }
 
 .links {
   display: inline-block;
-  border: 2px solid black;
+  border: 2px solid white;
   text-align: center;
-  width: 60px;
+  width: 15%;
   padding: 5px;
   padding-right: 3%;
   padding-left: 3%;
+  letter-spacing: 1px;
   }
 
 .links a {
-  color: black;
+  color: white;
 }
